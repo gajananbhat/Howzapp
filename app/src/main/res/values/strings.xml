@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HowZap</string>
+    <string name="title_activity_display_message">Howzap</string>
+
+    <string name="edit_message">Enter a message</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_send">Send</string>
+    <string name="edit_phone">Enter a phone number</string>
+    <string name="button_call">Call</string>
+    <string name="edit_browse">Enter a web page</string>
+    <string name="button_browse">Browse</string>
+    <string name="edit_map">Enter an address</string>
+    <string name="button_map">Map</string>
+    <string name="edit_share">Enter your status</string>
+    <string name="button_share">Share</string>
+    <string name="button_pick_contact">Pick Contact</string>
+
+    <string name="title_activity_name">MainActivity</string>
+    <string name="action_search">Search</string>
+    <string name="com.simulterra.myapplication.ACCESSKEY">AccessKey</string>
+    <string name="file_selector">File Selector</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="image_display_widget">Received Images</string>
+    <string name="title_activity_file_select">FileSelectActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
